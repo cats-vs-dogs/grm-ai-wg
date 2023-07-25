@@ -1,0 +1,5 @@
+.env
+RW_Calc.ipynb
+__pycache__
+data/
+sniplets.ipynb
